@@ -1,2 +1,0 @@
-# SeeKer-Bot
-Watching TEAM GALACTIC SERVER
